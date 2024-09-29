@@ -1,0 +1,39 @@
+{
+  "users": [
+    {
+      "id": "3f87",
+      "name": "Roy Marquardt"
+    },
+    {
+      "id": "b4f8",
+      "name": "Marilyn Cormier I"
+    },
+    {
+      "id": "5638",
+      "name": "Angelo Kunde"
+    }
+  ],
+  "albums": [
+    {
+      "id": "b186",
+      "userId": "3f87",
+      "title": "Small Plastic Sausages"
+    },
+    {
+      "id": "7c96",
+      "userId": "5638",
+      "title": "Refined Soft Salad"
+    },
+    {
+      "id": "ad52",
+      "userId": "b4f8",
+      "title": "Awesome Concrete Bacon"
+    }
+  ],
+  "photos": [
+    {
+      "id": "59d6",
+      "url": "https://loremflickr.com/150/150/abstract?lock=49375"
+    }
+  ]
+}
